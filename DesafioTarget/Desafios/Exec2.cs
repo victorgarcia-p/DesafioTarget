@@ -1,15 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace DesafioTarget.Desafios;
+﻿namespace DesafioTarget.Desafios;
 
 class Exec2
 {
-    static bool Fibonacci(int numero)
+    public void Fibonacci()
+    {
+        Console.Write("Informe um número: ");
+        int numero = int.Parse(Console.ReadLine());
+
+        if (VerificaFibonacci(numero))
+            Console.WriteLine($"{numero} pertence à sequência de Fibonacci.");
+        else
+            Console.WriteLine($"{numero} NÃO pertence à sequência de Fibonacci.");
+    }
+
+    static bool VerificaFibonacci(int numero)
     {
         int a = 0;
         int b = 1; 
@@ -26,14 +30,5 @@ class Exec2
         return false;
     }
 
-    static void Main()
-    {
-        Console.Write("Informe um número: ");
-        int numero = int.Parse(Console.ReadLine());
-
-        if (Fibonacci(numero))
-            Console.WriteLine($"{numero} pertence à sequência de Fibonacci.");
-        else
-            Console.WriteLine($"{numero} NÃO pertence à sequência de Fibonacci.");
-    }
+    
 }

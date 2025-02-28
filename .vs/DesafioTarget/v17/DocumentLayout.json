@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\desafios\\exec3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\desafios\\exec2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\desafios\\exec2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\suporte\\dados.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\suporte\\dados.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\desafios\\exec5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +23,16 @@
       "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\desafios\\exec4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\desafios\\exec2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\desafios\\exec2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\desafios\\exec1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\desafios\\exec1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|c:\\projetos\\desafiotarget\\desafiotarget\\suporte\\dadosfaturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFC7AC-0544-450C-AC23-87A4B63FA637}|DesafioTarget\\DesafioTarget.csproj|solutionrelative:desafiotarget\\suporte\\dadosfaturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,29 +46,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Exec5.cs",
-              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec5.cs",
-              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec5.cs",
-              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec5.cs",
-              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Exec1.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec1.cs",
+              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec1.cs",
+              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec1.cs",
+              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T22:58:45.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T22:55:04.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Exec4.cs",
-              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec4.cs",
-              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec4.cs",
-              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec4.cs",
-              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Exec2.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec2.cs",
+              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec2.cs",
+              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec2.cs",
+              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T22:58:42.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T22:58:02.416Z"
             },
             {
               "$type": "Document",
@@ -70,46 +76,69 @@
               "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec3.cs",
               "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec3.cs",
               "RelativeToolTip": "DesafioTarget\\Desafios\\Exec3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T22:58:38.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Exec2.cs",
-              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec2.cs",
-              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec2.cs",
-              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec2.cs",
-              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec2.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T22:58:02.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Exec1.cs",
-              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec1.cs",
-              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec1.cs",
-              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec1.cs",
-              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "Exec4.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec4.cs",
+              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec4.cs",
+              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec4.cs",
+              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T22:55:04.573Z",
+              "WhenOpened": "2025-02-28T22:58:42.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exec5.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec5.cs",
+              "RelativeDocumentMoniker": "DesafioTarget\\Desafios\\Exec5.cs",
+              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Desafios\\Exec5.cs",
+              "RelativeToolTip": "DesafioTarget\\Desafios\\Exec5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:58:45.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DadosFaturamento.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Suporte\\DadosFaturamento.cs",
+              "RelativeDocumentMoniker": "DesafioTarget\\Suporte\\DadosFaturamento.cs",
+              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Suporte\\DadosFaturamento.cs",
+              "RelativeToolTip": "DesafioTarget\\Suporte\\DadosFaturamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:19:42.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dados.json",
+              "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Suporte\\dados.json",
+              "RelativeDocumentMoniker": "DesafioTarget\\Suporte\\dados.json",
+              "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Suporte\\dados.json",
+              "RelativeToolTip": "DesafioTarget\\Suporte\\dados.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T23:17:46.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Program.cs",
               "RelativeDocumentMoniker": "DesafioTarget\\Program.cs",
               "ToolTip": "C:\\PROJETOS\\DesafioTarget\\DesafioTarget\\Program.cs",
               "RelativeToolTip": "DesafioTarget\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T22:54:03.259Z",
               "EditorCaption": ""

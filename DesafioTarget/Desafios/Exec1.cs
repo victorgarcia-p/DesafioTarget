@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DesafioTarget.Desafios;
+﻿namespace DesafioTarget.Desafios;
 
 class Exec1
 {
-    static void Sequencia()
+    public void Sequencia()
     {
         int INDICE = 13;
         int SOMA = 0;
